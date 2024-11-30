@@ -1,23 +1,28 @@
-# themezdz
+# Nama Proyek
 
-$ https://github.com/zudenza/themezdz
+Deskripsi singkat tentang proyek ini dan tujuannya.
 
-$ cd themezdz
+## Fitur Utama
+- **Fitur 1**: Penjelasan fitur pertama.
+- **Fitur 2**: Penjelasan fitur kedua.
 
-$ pkg update
+## Instalasi
 
-$ pkg upgrade
+1. Clone repositori ini
+   ```bash
+   git clone https://github.com/username/repo.git
+   ```
+2. Instal dependensi
+   ```bash
+   npm install
+   ```
 
-$ pkg install python clang python-dev libffi-dev
+## Teknologi
+- ![Node.js](https://img.shields.io/badge/Node.js-v16.0.0-green)
+- ![React](https://img.shields.io/badge/React-v17.0.0-blue)
 
-$ pip install --upgrade pip setuptools cython
-
-$ python setup.py build_ext --inplace
-
-$ python termux_theme.py
-
-
-setelah itu semua langsung jangan lupa ketik
+## Contributing
+Jika kamu ingin berkontribusi, silakan lakukan fork dan kirim pull request.
 
 $ source ~/.bashrc
 
