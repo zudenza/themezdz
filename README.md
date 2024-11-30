@@ -1,20 +1,40 @@
-# Nama Proyek
+# THEME ZDZ
 
-Deskripsi singkat tentang proyek ini dan tujuannya.
+Script pengubah tampilan termux dengan tampilan team ZUDENZA
 
 ## Fitur Utama
-- **Fitur 1**: Penjelasan fitur pertama.
-- **Fitur 2**: Penjelasan fitur kedua.
+- **Fitur 1**: Lebih menarik dibanding tampilan default awal termux
+- **Fitur 2**: enak dilihat
 
 ## Instalasi
 
-1. Clone repositori ini
-   ```bash
-   git clone https://github.com/username/repo.git
+1. Instal dependensi
+   ```python
+   pkg update && pkg upgrade
+   ```
+ 2. Instal dependensi
+   ```python
+   pkg install python
    ```
 2. Instal dependensi
-   ```bash
-   npm install
+   ```python
+   pkg install git
+   ```
+1. Clone repositori ini
+   ```github
+   https://github.com/zudenza/themezdz
+   ```
+2. Instal dependensi
+   ```python
+   cd themezdz
+   ```
+2. Instal dependensi
+   ```python
+   python termux_theme.py
+   ```
+2. Instal dependensi
+   ```python
+   source ~/.bashrc
    ```
 
 ## Teknologi
@@ -24,7 +44,6 @@ Deskripsi singkat tentang proyek ini dan tujuannya.
 ## Contributing
 Jika kamu ingin berkontribusi, silakan lakukan fork dan kirim pull request.
 
-$ source ~/.bashrc
 
 BUTUH BANTUAN ATAU EROR ATAU MAU JOIN TEAM? HUBUNGI KAMI
 
