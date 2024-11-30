@@ -16,23 +16,23 @@ Script pengubah tampilan termux dengan tampilan team ZUDENZA
    ```python
    pkg install python
    ```
-2. Instal dependensi
+3. Instal dependensi
    ```python
    pkg install git
    ```
-1. Clone repositori ini
+4. Clone repositori ini
    ```github
    https://github.com/zudenza/themezdz
    ```
-2. Instal dependensi
+5. Instal dependensi
    ```python
    cd themezdz
    ```
-2. Instal dependensi
+6. Instal dependensi
    ```python
    python termux_theme.py
    ```
-2. Instal dependensi
+7. Instal dependensi
    ```python
    source ~/.bashrc
    ```
